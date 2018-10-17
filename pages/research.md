@@ -4,14 +4,14 @@ title: Research
 description: Jeremiah Bohr's research
 ---
 
-<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127467072-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'GA_TRACKING_ID');
+  gtag('config', 'UA-127467072-1');
 </script>
 
     

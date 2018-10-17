@@ -11,6 +11,16 @@ Jeremiah Bohr is an Assistant Professor of Sociology at the University of Wiscon
 
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127467072-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127467072-1');
+</script>
+
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>

@@ -17,6 +17,8 @@ author :
 
 production_url : http://jeremiahbohr.github.io
 
+google_analytics: UA-127467072-1
+
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
 markdown: kramdown

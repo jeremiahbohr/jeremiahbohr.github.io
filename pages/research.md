@@ -29,7 +29,7 @@ unseasonably warm (or cold) temperatures versus those experiencing milder temper
 exacerbate the political polarization among Americans over perceptions of whether global warming impacts are immediately evident as well as the attribution of global warming to human
 activity. Results indicate that very cold or warm temperature anomalies from a 5-year baseline predict perceptions of global warming impacts and exacerbate existing political polarization over the causal attribution of global warming. These effects are particularly noticeable among Democrats. This analysis provides a contribution to understanding how temperature anomalies from the recent past shape the sociophysical context of global warming attitudes.*
 
-[click here for a PDF]({{ BASE_PATH}}/pages/publications/Bohr_2018_ClimaticChange.pdf)
+[click here for a PDF]({{ BASE_PATH}}/pages/publications/Bohr_2017_ClimaticChange.pdf)
 
 <br />
     

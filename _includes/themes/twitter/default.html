@@ -14,7 +14,7 @@
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-	
+
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
@@ -27,20 +27,6 @@
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
 
-	{% if site.google_analytics and jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
-	
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127467072-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', 'UA-127467072-1');
-	</script>
-	
   </head>
 
   <body>
@@ -51,7 +37,6 @@
           <ul class="nav">
               <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
               <li><a href="{{ BASE_PATH }}/pages/research.html">research</a></li>
-              <li><a href="{{ BASE_PATH }}/pages/teaching.html">teaching</a></li>
           </ul>
         </div>
       </div>
@@ -68,6 +53,5 @@
     </div>
 
     {% include JB/analytics %}
-	{% include analytics.html %}
   </body>
 </html>

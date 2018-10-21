@@ -16,7 +16,7 @@ description: Jeremiah Bohr's research
 
     
 #### Bohr, Jeremiah and Riley E. Dunlap. 2018. "Key topics in environmental sociology, 1990–2014: Results from a computational text analysis."  *Environmental Sociology.*
-*Environmental sociology is a growing field producing a diverse body of literature while also moving into the mainstream of the larger discipline. The twin goals of this paper are to introduce environmental sociologists to innovations in content analysis, specifically a form of text-mining known as topic modeling, and then employing it to identify key themes and trends within our diverse field. We apply the topic modeling approach to a corpus of research articles within environmental sociology, identifying 25 central topics within the field and examining their prevalence over time, co-occurrence, impact (judged by citations), and prestige (judged by journal rankings). Our results indicate which topics are most prevalent, tend to occur together, and how both vary over time. They also indicate that the highest impact topics are not the most prevalent, the most prestigious topics are not the most prevalent, and topics can be prestigious without exerting much impact. We conclude with a discussion of the capabilities computational text analysis methods offer environmental sociologists.*
+*Abstract: Environmental sociology is a growing field producing a diverse body of literature while also moving into the mainstream of the larger discipline. The twin goals of this paper are to introduce environmental sociologists to innovations in content analysis, specifically a form of text-mining known as topic modeling, and then employing it to identify key themes and trends within our diverse field. We apply the topic modeling approach to a corpus of research articles within environmental sociology, identifying 25 central topics within the field and examining their prevalence over time, co-occurrence, impact (judged by citations), and prestige (judged by journal rankings). Our results indicate which topics are most prevalent, tend to occur together, and how both vary over time. They also indicate that the highest impact topics are not the most prevalent, the most prestigious topics are not the most prevalent, and topics can be prestigious without exerting much impact. We conclude with a discussion of the capabilities computational text analysis methods offer environmental sociologists.*
 
 [click here for a PDF]({{ BASE_PATH}}/pages/publications/Bohr_Dunlap_2018_KeyTopics.pdf)
 
@@ -24,10 +24,7 @@ description: Jeremiah Bohr's research
 
 
 #### Bohr, Jeremiah. 2017. "Is it hot in here or is it just me? Temperature anomalies and political polarization over global warming in the American public."  *Climatic Change.*
-*Do temperature anomalies affect political polarization over global warming? Americans’ attitudes about global warming are affected by whether they reside in states experiencing
-unseasonably warm (or cold) temperatures versus those experiencing milder temperatures. Specifically, in terms of causal attribution, political polarization over global warming is more pronounced in states experiencing temperature anomalies. Using pooled data collected during 2013–2014, this study utilizes logistic regression to explore how temperature anomalies
-exacerbate the political polarization among Americans over perceptions of whether global warming impacts are immediately evident as well as the attribution of global warming to human
-activity. Results indicate that very cold or warm temperature anomalies from a 5-year baseline predict perceptions of global warming impacts and exacerbate existing political polarization over the causal attribution of global warming. These effects are particularly noticeable among Democrats. This analysis provides a contribution to understanding how temperature anomalies from the recent past shape the sociophysical context of global warming attitudes.*
+*Abstract: Do temperature anomalies affect political polarization over global warming? Americans’ attitudes about global warming are affected by whether they reside in states experiencing unseasonably warm (or cold) temperatures versus those experiencing milder temperatures. Specifically, in terms of causal attribution, political polarization over global warming is more pronounced in states experiencing temperature anomalies. Using pooled data collected during 2013–2014, this study utilizes logistic regression to explore how temperature anomalies exacerbate the political polarization among Americans over perceptions of whether global warming impacts are immediately evident as well as the attribution of global warming to human activity. Results indicate that very cold or warm temperature anomalies from a 5-year baseline predict perceptions of global warming impacts and exacerbate existing political polarization over the causal attribution of global warming. These effects are particularly noticeable among Democrats. This analysis provides a contribution to understanding how temperature anomalies from the recent past shape the sociophysical context of global warming attitudes.*
 
 [click here for a PDF]({{ BASE_PATH}}/pages/publications/Bohr_2017_ClimaticChange.pdf)
 
@@ -35,7 +32,7 @@ activity. Results indicate that very cold or warm temperature anomalies from a 5
     
 
 #### Bohr, Jeremiah. 2016. "The ‘climatism’ cartel: why climate change deniers oppose market-based mitigation policy."  *Environmental Politics.*
-*Mainstream policy responses seek to utilize market mechanisms in an effort to
+*Abstract: Mainstream policy responses seek to utilize market mechanisms in an effort to
 minimize costs for major emitters of greenhouse gases. Presumably, this
 should win over some climate change deniers who align themselves with
 think tanks promoting free markets and economic growth. Yet, climate change
@@ -56,6 +53,15 @@ economy relationships.*
 <br />
 
 
+#### Bohr, Jeremiah. 2014. "Public views on the dangers and importance of climate change: predicting climate change beliefs in the United States through income moderated by party identification." *Climatic Change.*
+*Abstract: Previous research has identified the interaction between political orientation and education as an important predictor of climate change beliefs. Using data from the 2010
+General Social Survey, this article looks at the moderating effect of party identification on income in predicting climate change beliefs in the U.S. Probing this interaction reveals that increased income predicts a higher probability of dismissing climate dangers among Republican-leaning individuals when compared with Independents and Democrats. Alternatively, increased income predicts a higher probability of ranking climate change as the most important environmental problem facing the United States among Democraticleaning
+individuals compared with Republicans. The results indicate that income only predicts climate change beliefs in the presence of certain political orientations, with poorer Republicans
+less likely to dismiss climate change dangers than their affluent counterparts.*
+
+[click here for a PDF]({{ BASE_PATH}}/pages/publications/Bohr_2014_ClimaticChange.pdf)
+
+<br />
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->

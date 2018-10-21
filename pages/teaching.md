@@ -15,7 +15,7 @@ description: Jeremiah Bohr's teaching
 
 #### Courses Taught
 
-#**Environment & Society**
+**Environment & Society**
 [click here for a syllabus]({{ BASE_PATH}}/pages/syllabi/EnvSociety_SP18.pdf)
 <br />
 

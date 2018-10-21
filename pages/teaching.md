@@ -13,7 +13,7 @@ description: Jeremiah Bohr's teaching
   gtag('config', 'UA-127467072-1');
 </script>
 
-#### Courses Taught
+### Courses Taught
 
 **Environment & Society**
 [click here for a syllabus]({{ BASE_PATH}}/pages/syllabi/EnvSociety_SP18.pdf)

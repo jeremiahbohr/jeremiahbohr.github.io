@@ -4,7 +4,7 @@ title: Jeremiah Bohr
 description: Jeremiah Bohr is an Assistant Professor of Sociology at the University of Wisconsin Oshkosh. 
 keywords: Jeremiah, Bohr, sociology, environmental, climate, denial, energy, computational
 ---
-Since 2015, I have worked as an Assistant Professor of Sociology at the University of Wisconsin Oshkosh. My research interests include climate change denial, environmental behavior, energy use, social media, and computational methods (especially text analysis). 
+Since 2015, I have worked as an Assistant Professor of Sociology at the University of Wisconsin Oshkosh. My research interests include climate change denial, environmental communication and politics, energy use, and computational methods (especially text analysis).
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 

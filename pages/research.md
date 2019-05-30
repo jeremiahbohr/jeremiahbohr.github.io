@@ -64,6 +64,13 @@ less likely to dismiss climate change dangers than their affluent counterparts.*
 <br />
 
 
+#### Bohr, Jeremiah. 2014. "Barriers to Environmental Sacrifice: The Interaction of Free Rider Fears with Education, Income, and Ideology." *Sociological Spectrum.*
+*Abstract: Sacrificing individual material interests for collective benefits involves trust that others will act in good faith. Inherent to situations concerning collective goods is the problem of the free rider that plagues collective action: the individual who maximizes their short-term interests at the cost of the greater good. Prior research in environmental sociology has identified various social structural factors predicting pro-environmental behavior and concern, while research on social dilemmas has explored the role of trust in determining cooperation in situations regarding collective goods. This research draws upon these areas of scholarship to examine the interaction between free rider fears with education, income, and ideology in determining the willingness of Americans to sacrifice individual interest for environmental protection through an analysis of 2010 General Social Survey data. Findings help differentiate the engagement of pro-environmental behavior from general environmental concern, with the fear of free riders particularly impacting the highly educated and ideological liberals.*
+
+[click here for a PDF]({{ BASE_PATH}}/pages/publications/Bohr_2014_EnvSacrifice.pdf)
+
+<br />
+
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--

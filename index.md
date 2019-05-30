@@ -32,8 +32,8 @@ Jeremiah Bohr is an Assistant Professor of Sociology at the University of Wiscon
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
+        <a href="../assets/profile.jpg">
+            <img src="../assets/profile.jpg"
                   title="Jeremiah Bohr" alt="Jeremiah Bohr"/></a>
         </div>
     </div>

@@ -27,8 +27,7 @@ Since 2015, I have worked as an Assistant Professor of Sociology at the Universi
 
     <div class="row-fluid">
         <div class="span5">
-            Jeremiah Bohr<br/>
-            Email: bohrj@uwosh.edu<br/>
+            bohrj@uwosh.edu<br/>
         </div>
 
         <div class="span2">

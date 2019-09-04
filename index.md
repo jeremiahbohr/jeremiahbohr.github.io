@@ -23,7 +23,7 @@ Since 2015, I have worked as an Assistant Professor of Sociology at the Universi
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<br/><h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">

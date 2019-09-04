@@ -27,7 +27,10 @@ Since 2015, I have worked as an Assistant Professor of Sociology at the Universi
 
     <div class="row-fluid">
         <div class="span5">
-            bohrj@uwosh.edu<br/>
+            bohrj@uwosh.edu<br/><br/>
+	    Department of Sociology	    
+	    800 Algoma Blvd.
+	    Oshkosh, WI 54901
         </div>
 
         <div class="span2">

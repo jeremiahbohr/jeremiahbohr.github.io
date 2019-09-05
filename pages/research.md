@@ -18,7 +18,7 @@ description: Jeremiah Bohr's research
 #### Bohr, Jeremiah and Riley E. Dunlap. 2018. "Key topics in environmental sociology, 1990–2014: Results from a computational text analysis."  *Environmental Sociology.*
 *Abstract: Environmental sociology is a growing field producing a diverse body of literature while also moving into the mainstream of the larger discipline. The twin goals of this paper are to introduce environmental sociologists to innovations in content analysis, specifically a form of text-mining known as topic modeling, and then employing it to identify key themes and trends within our diverse field. We apply the topic modeling approach to a corpus of research articles within environmental sociology, identifying 25 central topics within the field and examining their prevalence over time, co-occurrence, impact (judged by citations), and prestige (judged by journal rankings). Our results indicate which topics are most prevalent, tend to occur together, and how both vary over time. They also indicate that the highest impact topics are not the most prevalent, the most prestigious topics are not the most prevalent, and topics can be prestigious without exerting much impact. We conclude with a discussion of the capabilities computational text analysis methods offer environmental sociologists.*
 
-[click here for a PDF]({{ BASE_PATH}}/pages/publications/Bohr_Dunlap_2018_KeyTopics.pdf)
+[PDF]({{ BASE_PATH}}/pages/publications/Bohr_Dunlap_2018_KeyTopics.pdf)
 
 <br />
 
@@ -26,7 +26,7 @@ description: Jeremiah Bohr's research
 #### Bohr, Jeremiah. 2017. "Is it hot in here or is it just me? Temperature anomalies and political polarization over global warming in the American public."  *Climatic Change.*
 *Abstract: Do temperature anomalies affect political polarization over global warming? Americans’ attitudes about global warming are affected by whether they reside in states experiencing unseasonably warm (or cold) temperatures versus those experiencing milder temperatures. Specifically, in terms of causal attribution, political polarization over global warming is more pronounced in states experiencing temperature anomalies. Using pooled data collected during 2013–2014, this study utilizes logistic regression to explore how temperature anomalies exacerbate the political polarization among Americans over perceptions of whether global warming impacts are immediately evident as well as the attribution of global warming to human activity. Results indicate that very cold or warm temperature anomalies from a 5-year baseline predict perceptions of global warming impacts and exacerbate existing political polarization over the causal attribution of global warming. These effects are particularly noticeable among Democrats. This analysis provides a contribution to understanding how temperature anomalies from the recent past shape the sociophysical context of global warming attitudes.*
 
-[click here for a PDF]({{ BASE_PATH}}/pages/publications/Bohr_2017_ClimaticChange.pdf)
+[PDF]({{ BASE_PATH}}/pages/publications/Bohr_2017_ClimaticChange.pdf)
 
 <br />
     
@@ -48,7 +48,7 @@ neoliberal climate change deniers frame scientific knowledge as an
 attack on economic freedom when utilized to guide policy governing environment–
 economy relationships.*
 
-[click here for a PDF]({{ BASE_PATH}}/pages/publications/Bohr_2016_ClimatismCartel.pdf)
+[PDF]({{ BASE_PATH}}/pages/publications/Bohr_2016_ClimatismCartel.pdf)
 
 <br />
 
@@ -59,7 +59,7 @@ General Social Survey, this article looks at the moderating effect of party iden
 individuals compared with Republicans. The results indicate that income only predicts climate change beliefs in the presence of certain political orientations, with poorer Republicans
 less likely to dismiss climate change dangers than their affluent counterparts.*
 
-[click here for a PDF]({{ BASE_PATH}}/pages/publications/Bohr_2014_ClimaticChange.pdf)
+[PDF]({{ BASE_PATH}}/pages/publications/Bohr_2014_ClimaticChange.pdf)
 
 <br />
 
@@ -67,7 +67,7 @@ less likely to dismiss climate change dangers than their affluent counterparts.*
 #### Bohr, Jeremiah. 2014. "Barriers to Environmental Sacrifice: The Interaction of Free Rider Fears with Education, Income, and Ideology." *Sociological Spectrum.*
 *Abstract: Sacrificing individual material interests for collective benefits involves trust that others will act in good faith. Inherent to situations concerning collective goods is the problem of the free rider that plagues collective action: the individual who maximizes their short-term interests at the cost of the greater good. Prior research in environmental sociology has identified various social structural factors predicting pro-environmental behavior and concern, while research on social dilemmas has explored the role of trust in determining cooperation in situations regarding collective goods. This research draws upon these areas of scholarship to examine the interaction between free rider fears with education, income, and ideology in determining the willingness of Americans to sacrifice individual interest for environmental protection through an analysis of 2010 General Social Survey data. Findings help differentiate the engagement of pro-environmental behavior from general environmental concern, with the fear of free riders particularly impacting the highly educated and ideological liberals.*
 
-[click here for a PDF]({{ BASE_PATH}}/pages/publications/Bohr_2014_EnvSacrifice.pdf)
+[PDF]({{ BASE_PATH}}/pages/publications/Bohr_2014_EnvSacrifice.pdf)
 
 <br />
 

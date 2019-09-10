@@ -20,7 +20,7 @@ description: Jeremiah Bohr's teaching
 <br />
 
 **Foundations of Sociology**
-[syllabus]({{ BASE_PATH}}/pages/syllabi/Foundations_SP18.pdf)
+[syllabus]({{ BASE_PATH}}/pages/syllabi/Foundations_FA18.pdf)
 <br />
 
 **Political Sociology**

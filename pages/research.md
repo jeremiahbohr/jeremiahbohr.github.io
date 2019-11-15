@@ -20,10 +20,14 @@ description: Jeremiah Bohr's research
 two-year timeframe relative to non-burdened households. This analysis indicates that dedicating inordinate amounts of income to energy services can threaten a household’s economic well-being over time, possibly by preventing a household from engaging in other economic activities or compounding existing economic hardship. These results emphasize the importance of energy assistance and energy efficiency for low-income households, drawing attention to how structures of energy consumption, the welfare state, and social stratification intertwine.*
 
 [PDF]({{ BASE_PATH}}/pages/publications/Bohr McCreery_Energy Burden and Economic Poverty.pdf)
+<br />
 [Data]({{ BASE_PATH}}/pages/publications/1999-2017 PSID_raw.dta)
+<br />
 [Stata DO file]({{ BASE_PATH}}/pages/publications/PSID_Bohr_McCreery_EnergyBurden.do)
+<br />
 [Codebook]({{ BASE_PATH}}/pages/publications/PSID_codebook_Bohr_McCreery_EnergyBurden.pdf)
 
+<br />
 <br />
 
 

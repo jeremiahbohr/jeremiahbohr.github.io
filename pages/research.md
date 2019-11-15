@@ -14,7 +14,19 @@ description: Jeremiah Bohr's research
   gtag('config', 'UA-127467072-1');
 </script>
 
-    
+
+#### Bohr, Jeremiah and Anna C. McCreery. Forthcoming. "Do Energy Burdens Contribute to Economic Poverty in the United States? A Panel Analysis." *Social Forces.*
+*Abstract: For many households, energy consumption represents a non-discretionary portion of their budget and directly relates to quality of life. As researchers continue to study the environmental impacts of energy behavior, it is important to explore how energy consumption relates to socio-economic wellbeing. This paper examines the economic impacts of being energy-burdened in the United States, defined as spending at least 10% of household income on heating and electricity services; energy burdens are partially, but not entirely, driven by income, since energy needs and costs can vary substantially due to housing characteristics, utility rates, and other factors. Using panel data of US household income and energy expenditures during 1999–2017, this analysis demonstrates that energy-burdened households were at about 150%–200% greater risk of transitioning into or extending the duration of economic poverty over a
+two-year timeframe relative to non-burdened households. This analysis indicates that dedicating inordinate amounts of income to energy services can threaten a household’s economic well-being over time, possibly by preventing a household from engaging in other economic activities or compounding existing economic hardship. These results emphasize the importance of energy assistance and energy efficiency for low-income households, drawing attention to how structures of energy consumption, the welfare state, and social stratification intertwine.*
+
+[PDF]({{ BASE_PATH}}/pages/publications/Bohr McCreery_Energy Burden and Economic Poverty.pdf)
+[Data]({{ BASE_PATH}}/pages/publications/1999-2017 PSID_raw.dta)
+[Stata DO file]({{ BASE_PATH}}/pages/publications/PSID_Bohr_McCreery_EnergyBurden.do)
+[Codebook]({{ BASE_PATH}}/pages/publications/PSID_codebook_Bohr_McCreery_EnergyBurden.pdf)
+
+<br />
+
+
 #### Bohr, Jeremiah and Riley E. Dunlap. 2018. "Key topics in environmental sociology, 1990–2014: Results from a computational text analysis."  *Environmental Sociology.*
 *Abstract: Environmental sociology is a growing field producing a diverse body of literature while also moving into the mainstream of the larger discipline. The twin goals of this paper are to introduce environmental sociologists to innovations in content analysis, specifically a form of text-mining known as topic modeling, and then employing it to identify key themes and trends within our diverse field. We apply the topic modeling approach to a corpus of research articles within environmental sociology, identifying 25 central topics within the field and examining their prevalence over time, co-occurrence, impact (judged by citations), and prestige (judged by journal rankings). Our results indicate which topics are most prevalent, tend to occur together, and how both vary over time. They also indicate that the highest impact topics are not the most prevalent, the most prestigious topics are not the most prevalent, and topics can be prestigious without exerting much impact. We conclude with a discussion of the capabilities computational text analysis methods offer environmental sociologists.*
 

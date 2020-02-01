@@ -4,6 +4,19 @@ title: Jeremiah Bohr
 description: Jeremiah Bohr is an Assistant Professor of Sociology at the University of Wisconsin Oshkosh. 
 keywords: Jeremiah, Bohr, sociology, environmental, climate, denial, energy, computational, University, Wisconsin, Oshkosh
 ---
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TW8FDKJ');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW8FDKJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 Since 2015, I have worked as an Assistant Professor of Sociology at the University of Wisconsin Oshkosh, after completing my Ph.D. at the University of Illinois at Urbana-Champaign. My research areas include climate change denial, environmental public opinion, politics, and communication, and how energy consumption relates to economic outcomes. My work has been featured in outlets such as <i>The Guardian, Time, Mother Jones, </i> and others.
 <br/><br/>
 I am currently using my methodological interest in computational social science (especially text analysis) as preparation for a new course on Social Data Science, aimed at undergraduate students with little to no background in computer programming. I also teach courses such as environmental sociology, social stratification, research methods, and social statistics.  

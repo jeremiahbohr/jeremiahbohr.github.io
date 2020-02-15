@@ -40,7 +40,6 @@ two-year timeframe relative to non-burdened households. This analysis indicates 
 #[Codebook]({{ BASE_PATH}}/pages/publications/PSID_codebook_Bohr_McCreery_EnergyBurden.pdf)
 
 <br />
-<br />
 
 
 #### Bohr, Jeremiah. 2020. "Reporting on climate change: A computational analysis of U.S. newspapers and sources of bias, 1997–2017.” *Global Environmental Change.*

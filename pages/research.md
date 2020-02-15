@@ -31,13 +31,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 *Abstract: For many households, energy consumption represents a non-discretionary portion of their budget and directly relates to quality of life. As researchers continue to study the environmental impacts of energy behavior, it is important to explore how energy consumption relates to socio-economic wellbeing. This paper examines the economic impacts of being energy-burdened in the United States, defined as spending at least 10% of household income on heating and electricity services; energy burdens are partially, but not entirely, driven by income, since energy needs and costs can vary substantially due to housing characteristics, utility rates, and other factors. Using panel data of US household income and energy expenditures during 1999–2017, this analysis demonstrates that energy-burdened households were at about 150%–200% greater risk of transitioning into or extending the duration of economic poverty over a
 two-year timeframe relative to non-burdened households. This analysis indicates that dedicating inordinate amounts of income to energy services can threaten a household’s economic well-being over time, possibly by preventing a household from engaging in other economic activities or compounding existing economic hardship. These results emphasize the importance of energy assistance and energy efficiency for low-income households, drawing attention to how structures of energy consumption, the welfare state, and social stratification intertwine.*
 
-#[PDF]({{ BASE_PATH}}/pages/publications/Bohr McCreery_Energy Burden and Economic Poverty.pdf)
+# [PDF]({{ BASE_PATH}}/pages/publications/Bohr McCreery_Energy Burden and Economic Poverty.pdf)
 <br />
-#[Data]({{ BASE_PATH}}/pages/publications/1999-2017 PSID_raw.dta)
+# [Data]({{ BASE_PATH}}/pages/publications/1999-2017 PSID_raw.dta)
 <br />
-#[Stata DO file]({{ BASE_PATH}}/pages/publications/PSID_Bohr_McCreery_EnergyBurden.do)
+# [Stata DO file]({{ BASE_PATH}}/pages/publications/PSID_Bohr_McCreery_EnergyBurden.do)
 <br />
-#[Codebook]({{ BASE_PATH}}/pages/publications/PSID_codebook_Bohr_McCreery_EnergyBurden.pdf)
+# [Codebook]({{ BASE_PATH}}/pages/publications/PSID_codebook_Bohr_McCreery_EnergyBurden.pdf)
 
 <br />
 

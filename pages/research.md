@@ -27,14 +27,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 
-#### Bohr, Jeremiah and Anna C. McCreery. Forthcoming. "Do Energy Burdens Contribute to Economic Poverty in the United States? A Panel Analysis." *Social Forces.*
-*Abstract: For many households, energy consumption represents a non-discretionary portion of their budget and directly relates to quality of life. As researchers continue to study the environmental impacts of energy behavior, it is important to explore how energy consumption relates to socio-economic wellbeing. This paper examines the economic impacts of being energy-burdened in the United States, defined as spending at least 10% of household income on heating and electricity services; energy burdens are partially, but not entirely, driven by income, since energy needs and costs can vary substantially due to housing characteristics, utility rates, and other factors. Using panel data of US household income and energy expenditures during 1999–2017, this analysis demonstrates that energy-burdened households were at about 150%–200% greater risk of transitioning into or extending the duration of economic poverty over a
-two-year timeframe relative to non-burdened households. This analysis indicates that dedicating inordinate amounts of income to energy services can threaten a household’s economic well-being over time, possibly by preventing a household from engaging in other economic activities or compounding existing economic hardship. These results emphasize the importance of energy assistance and energy efficiency for low-income households, drawing attention to how structures of energy consumption, the welfare state, and social stratification intertwine.*
 
-#### [PDF]({{ BASE_PATH}}/pages/publications/Bohr McCreery_Energy Burden and Economic Poverty.pdf)
-#### [Data]({{ BASE_PATH}}/pages/publications/1999-2017 PSID_raw.dta)
-#### [Stata DO file]({{ BASE_PATH}}/pages/publications/PSID_Bohr_McCreery_EnergyBurden.do)
-#### [Codebook]({{ BASE_PATH}}/pages/publications/PSID_codebook_Bohr_McCreery_EnergyBurden.pdf)
+#### Guber, Deborah Lynn, Jeremiah Bohr & Riley E. Dunlap. 2020. "‘TIME TO WAKE UP’: Climate change advocacy in a polarized Congress, 1996-2015." *Environmental Politics.*
+*Abstract: Scholars who study the failure of climate change policy in the United States tend to focus on the mechanics of denial and the coordinated efforts of political operatives, conservative think tanks, and partisan news outlets to cast doubt on what has become overwhelming scientific consensus. In contrast, we address a factor that has been understudied until now – the role of climate change advocacy in the U.S. Congress. Using quantitative text analysis on a corpus of floor speeches published in the Congressional Record between 1996 and 2015,
+we find notable differences in the language partisans use. Democrats communicate in ways that are message-based, emphasizing the weight of scientific evidence, while Republicans tend towards a softer, cue-based narrative based on anecdotes and storytelling. We end with a discussion of what climate change advocates can hope to accomplish through the ‘politics of talk,’ especially in an age of heightened polarization.
+
+#### [PDF]({{ BASE_PATH}}/pages/publications/Guber Bohr Dunlap_2020_EP.pdf)
+
+<br />
+
+
+#### Bohr, Jeremiah. 2020. "Key events and challenges: A computational text analysis of the 115th House of Representatives on Twitter." *Environmental Politics.*
+*Abstract: To determine to what extent politicians publicly discuss environmental issues in line with public opinion and economic characteristics of their constituents, we conducted a computational text analysis of the 115th House of Representatives’ tweets about environmental issues. In polarized U.S. environmental politics, many Republicans attack the authority of scientists and regulators but some signala desire for bipartisan policy compromises. Analyzing district characteristics and environmental communication on Twitter reveals that nominally pro-environment Republicans representing more moderate constituents fail to oppose their partisan colleagues, particularly during the Trump administration’s withdrawal from the Paris
+Agreement. At the same time, very few openly attacked climate science; instead, House Republicans primarily focused attention on fossil fuels, the Environmental Protection Agency and the right of the federal government to regulate economic activity. The ‘Waters of the United States’ served as a rallying cry for opposition to environmental regulation in the 115th House of Representatives.
+
+#### [PDF]({{ BASE_PATH}}/pages/publications/Bohr_2020_EP.pdf)
 
 <br />
 
@@ -43,6 +50,18 @@ two-year timeframe relative to non-burdened households. This analysis indicates 
 *Abstract: News organizations constitute key sites of science communication between experts and lay audiences, giving many individuals their basic worldview of complex topics like climate change. Previous researchers have studied climate change news coverage to assess accuracy in reporting and potential sources of bias. These studies typically rely on manually coding articles from a handful of prestigious outlets, not allowing comparisons with smaller newspapers or providing enough diversity to assess the influence of partisan orientation or localized climate vulnerability on content production. Making these comparisons, this study indicates that partisan orientation, scale of circulation, and vulnerability to climate change correlate with several topics present in U.S. newspaper coverage of climate change. After assembling a corpus of over 78,000 articles covering two decades from 52 U.S. newspapers that are diverse in terms of geography, partisan orientation, scale of circulation, and objectively measured climate risk, a coherent set of latent topics were identified via an automated content analysis of climate change news coverage. Topic model results indicate that while outlet bias does not appear to impact the prevalence of coverage for most topics surrounding climate change, differences were evident for some topics based on partisan orientation, scale, or vulnerability status, particularly those relating to climate change denial, impacts, mitigation, or resource use. Overall, this paper provides a comprehensive study of U.S. newspaper coverage of climate change and identifies specific topics where outlet bias constitutes an important contextual factor.
 
 #### [PDF]({{ BASE_PATH}}/pages/publications/Bohr_2020_GEC.pdf)
+
+<br />
+
+
+#### Bohr, Jeremiah and Anna C. McCreery. 2019. "Do Energy Burdens Contribute to Economic Poverty in the United States? A Panel Analysis." *Social Forces.*
+*Abstract: For many households, energy consumption represents a non-discretionary portion of their budget and directly relates to quality of life. As researchers continue to study the environmental impacts of energy behavior, it is important to explore how energy consumption relates to socio-economic wellbeing. This paper examines the economic impacts of being energy-burdened in the United States, defined as spending at least 10% of household income on heating and electricity services; energy burdens are partially, but not entirely, driven by income, since energy needs and costs can vary substantially due to housing characteristics, utility rates, and other factors. Using panel data of US household income and energy expenditures during 1999–2017, this analysis demonstrates that energy-burdened households were at about 150%–200% greater risk of transitioning into or extending the duration of economic poverty over a
+two-year timeframe relative to non-burdened households. This analysis indicates that dedicating inordinate amounts of income to energy services can threaten a household’s economic well-being over time, possibly by preventing a household from engaging in other economic activities or compounding existing economic hardship. These results emphasize the importance of energy assistance and energy efficiency for low-income households, drawing attention to how structures of energy consumption, the welfare state, and social stratification intertwine.*
+
+#### [PDF]({{ BASE_PATH}}/pages/publications/Bohr McCreery_Energy Burden and Economic Poverty.pdf)
+#### [Data]({{ BASE_PATH}}/pages/publications/1999-2017 PSID_raw.dta)
+#### [Stata DO file]({{ BASE_PATH}}/pages/publications/PSID_Bohr_McCreery_EnergyBurden.do)
+#### [Codebook]({{ BASE_PATH}}/pages/publications/PSID_codebook_Bohr_McCreery_EnergyBurden.pdf)
 
 <br />
 

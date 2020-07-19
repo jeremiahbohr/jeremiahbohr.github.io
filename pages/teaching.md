@@ -44,6 +44,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 [syllabus]({{ BASE_PATH}}/pages/syllabi/SocNetworksOrgs_FA19.pdf)
 <br />
 
+**Social Data Science**
+[syllabus]({{ BASE_PATH}}/pages/syllabi/SocDataSci_draft.pdf)
+<br />
+
 **Social Research**
 [syllabus]({{ BASE_PATH}}/pages/syllabi/ResearchMethods_FA18.pdf)
 <br />

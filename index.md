@@ -40,7 +40,7 @@ I am currently using my methodological interest in computational social science 
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span4">
             bohrj@uwosh.edu<br/><br/>
 	    Department of Sociology<br/>	    
 	    800 Algoma Blvd.<br/>

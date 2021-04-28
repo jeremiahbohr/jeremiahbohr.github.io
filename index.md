@@ -48,7 +48,7 @@ I am currently using my methodological interest in computational social science 
         </div>
 
         <div class="span2">
-        <a href="../assets/profile.jpg">
+        <a href="../assets/headshot_2021.jpg">
             <img src="../assets/profile.jpg"
                   title="Jeremiah Bohr" alt="Jeremiah Bohr"/></a>
         </div>

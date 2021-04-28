@@ -63,5 +63,5 @@ I am currently using my methodological interest in computational social science 
           <li><a href="https://scholar.google.com/citations?user=fzISXw4AAAAJ&hl=en">Google Scholar</a></li>
           <li><a href="https://twitter.com/jeremiahbohr">Twitter (@jeremiahbohr)</a></li>
       </ul>
-  </div>
+  <!-- </div> -->
 </div>

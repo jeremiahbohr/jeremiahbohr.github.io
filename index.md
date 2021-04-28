@@ -40,17 +40,17 @@ I am currently using my methodological interest in computational social science 
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
+        <div class="span5">
+        <a href="../assets/headshot_2021.jpg">
+            <img src="../assets/headshot_2021.jpg"
+                  title="Jeremiah Bohr" alt="Jeremiah Bohr"/></a>
+        </div>
+
         <div class="span4">
             bohrj@uwosh.edu<br/><br/>
 	    Department of Sociology<br/>	    
 	    800 Algoma Blvd.<br/>
 	    Oshkosh, WI 54901
-        </div>
-
-        <div class="span5 offset1">
-        <a href="../assets/headshot_2021.jpg">
-            <img src="../assets/headshot_2021.jpg"
-                  title="Jeremiah Bohr" alt="Jeremiah Bohr"/></a>
         </div>
     </div>
 </div>

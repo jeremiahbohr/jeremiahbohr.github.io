@@ -40,7 +40,7 @@ I am currently using my methodological interest in computational social science 
 
     <div class="row-fluid">
 
-        <div class="span4">
+        <div class="span2">
             <h4><a name="contact"></a>contact</h4>
 
             bohrj@uwosh.edu<br/><br/>
@@ -49,7 +49,7 @@ I am currently using my methodological interest in computational social science 
 	    Oshkosh, WI 54901
         </div>
 
-        <div class="span4 pull-left">
+        <div class="span6 pull-left">
         <a href="../assets/headshot_2021.jpg">
             <img src="../assets/headshot_2021.jpg"
                   title="Jeremiah Bohr" alt="Jeremiah Bohr"/></a>

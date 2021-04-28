@@ -37,7 +37,6 @@ I am currently using my methodological interest in computational social science 
 
 
 <div class="container">
-<h4><a name="contact"> <div class="span4 offset2"> </a>contact</h4>
 
     <div class="row-fluid">
         <div class="span4">
@@ -47,6 +46,8 @@ I am currently using my methodological interest in computational social science 
         </div>
 
         <div class="span4">
+	    
+	    <h4><a name="contact"></a>contact</h4>
             bohrj@uwosh.edu<br/><br/>
 	    Department of Sociology<br/>	    
 	    800 Algoma Blvd.<br/>

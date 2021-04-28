@@ -50,7 +50,7 @@ I am currently using my methodological interest in computational social science 
         </div>
 
 	<div dir='rtl'>
-        	<div class="span4 pull-right">
+        	<div class="span4 pull-center">
         	<a href="../assets/headshot_2021.jpg">
                 <img src="../assets/headshot_2021.jpg"
                 title="Jeremiah Bohr" alt="Jeremiah Bohr"/></a>

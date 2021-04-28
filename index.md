@@ -37,10 +37,10 @@ I am currently using my methodological interest in computational social science 
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"> <div class="span4 offset2"> </a>contact</h4>
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span4">
         <a href="../assets/headshot_2021.jpg">
             <img src="../assets/headshot_2021.jpg"
                   title="Jeremiah Bohr" alt="Jeremiah Bohr"/></a>

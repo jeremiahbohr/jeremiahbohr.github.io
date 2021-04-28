@@ -39,11 +39,6 @@ I am currently using my methodological interest in computational social science 
 <div class="container">
 
     <div class="row-fluid">
-        <div class="span4">
-        <a href="../assets/headshot_2021.jpg">
-            <img src="../assets/headshot_2021.jpg"
-                  title="Jeremiah Bohr" alt="Jeremiah Bohr"/></a>
-        </div>
 
         <div class="span4 offset1">
             <h4><a name="contact"></a>contact</h4>
@@ -53,6 +48,13 @@ I am currently using my methodological interest in computational social science 
 	    800 Algoma Blvd.<br/>
 	    Oshkosh, WI 54901
         </div>
+
+        <div class="span4">
+        <a href="../assets/headshot_2021.jpg">
+            <img src="../assets/headshot_2021.jpg"
+                  title="Jeremiah Bohr" alt="Jeremiah Bohr"/></a>
+        </div>
+
     </div>
 </div>
 

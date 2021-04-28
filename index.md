@@ -56,7 +56,7 @@ I am currently using my methodological interest in computational social science 
     </div>
 </div>
 
-<div class="navbar d-flex justify-content-around">
+<div class="navbar align-items-start">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>

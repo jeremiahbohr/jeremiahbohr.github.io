@@ -58,10 +58,10 @@ I am currently using my methodological interest in computational social science 
 
 <div class="navbar"> 
   <div class="navbar-inner">  
-      <ul class="nav justify-content-start">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
-          <li><a href="https://scholar.google.com/citations?user=fzISXw4AAAAJ&hl=en">Google Scholar</a></li>
-          <li><a href="https://twitter.com/jeremiahbohr">Twitter (@jeremiahbohr)</a></li>
+      <ul class="nav justify-content-center">
+          <li class="nav-item"><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
+          <li class="nav-item"><a href="https://scholar.google.com/citations?user=fzISXw4AAAAJ&hl=en">Google Scholar</a></li>
+          <li class="nav-item"><a href="https://twitter.com/jeremiahbohr">Twitter (@jeremiahbohr)</a></li>
       </ul>
   </div>
 </div>

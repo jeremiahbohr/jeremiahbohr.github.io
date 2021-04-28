@@ -45,9 +45,9 @@ I am currently using my methodological interest in computational social science 
                   title="Jeremiah Bohr" alt="Jeremiah Bohr"/></a>
         </div>
 
-        <div class="span4">
-	    
-	    <h4><a name="contact"></a>contact</h4>
+        <div class="span4 offset1">
+            <h4><a name="contact"></a>contact</h4>
+
             bohrj@uwosh.edu<br/><br/>
 	    Department of Sociology<br/>	    
 	    800 Algoma Blvd.<br/>

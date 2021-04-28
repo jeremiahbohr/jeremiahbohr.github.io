@@ -57,7 +57,7 @@ I am currently using my methodological interest in computational social science 
 </div>
 
 <div class="navbar">
-  <div class="navbar-inner">
+  <!-- <div class="navbar-inner"> -->
       <ul class="nav justify-content-left">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
           <li><a href="https://scholar.google.com/citations?user=fzISXw4AAAAJ&hl=en">Google Scholar</a></li>

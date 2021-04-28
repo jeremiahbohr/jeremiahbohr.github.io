@@ -49,7 +49,7 @@ I am currently using my methodological interest in computational social science 
 	    Oshkosh, WI 54901
         </div>
 
-        <div class="span4">
+        <div class="span4 ms-auto">
         <a href="../assets/headshot_2021.jpg">
             <img src="../assets/headshot_2021.jpg"
                   title="Jeremiah Bohr" alt="Jeremiah Bohr"/></a>

@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 I am an Associate Professor of Sociology at the University of Wisconsin Oshkosh, working here since 2015 after completing my Ph.D. at the University of Illinois at Urbana-Champaign. My current research uses computational text analysis to study climate change communication and politics. My work has been discussed in outlets such as <i>The Guardian, Bloomberg, Time, Mother Jones, </i> and others. I teach courses on environmental sociology, social data science, research methods, social stratification, and social networks.  
 
-<br/><br/>
+<br/>
 I am currently working on a book project analyzing climate change communication by Congressional members across millions of social media posts. 
 
 

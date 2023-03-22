@@ -2,7 +2,7 @@
 layout: frontpage
 title: Jeremiah Bohr
 description: Jeremiah Bohr is an Assistant Professor of Sociology at the University of Wisconsin Oshkosh. 
-keywords: Jeremiah, Bohr, sociology, environmental, climate, denial, energy, computational, University, Wisconsin, Oshkosh
+keywords: Jeremiah, Bohr, Jeremiah Bohr, sociology, environmental, climate, denial, energy, computational, University, Wisconsin, Oshkosh
 ---
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -17,10 +17,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-I am an Associate Professor of Sociology at the University of Wisconsin Oshkosh, working here since 2015 after completing my Ph.D. at the University of Illinois at Urbana-Champaign. My research interests include climate change denial, environmental politics and communication, and household energy consumption. My work has been discussed in outlets such as <i>The Guardian, Bloomberg, Time, Mother Jones, </i> and others.
-<br/><br/>
-I am currently using my methodological interest in computational social science (especially text analysis) as preparation for a new course on Social Data Science, aimed at undergraduate students with little to no background in computer programming. I also teach courses such as environmental sociology, social stratification, research methods, and social statistics.  
+I am an Associate Professor of Sociology at the University of Wisconsin Oshkosh, working here since 2015 after completing my Ph.D. at the University of Illinois at Urbana-Champaign. My current research uses computational text analysis to study climate change communication and politics. My work has been discussed in outlets such as <i>The Guardian, Bloomberg, Time, Mother Jones, </i> and others. I teach courses on environmental sociology, social data science, research methods, social stratification, and social networks.  
 
+<br/><br/>
+I am currently working on a book project analyzing climate change communication by Congressional members across millions of social media posts. 
 
 
 ---

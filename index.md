@@ -17,7 +17,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-I am an Associate Professor of Sociology at the University of Wisconsin Oshkosh, working here since 2015 after completing my Ph.D. at the University of Illinois at Urbana-Champaign. My current research uses computational text analysis to study climate change communication. My work has been discussed in outlets such as <i>The Guardian, Bloomberg, Time, Mother Jones, </i> and others. I teach courses on environmental social data science, AI & society, research methods, environment & society, and social networks.  
+I am an Associate Professor of Sociology at the University of Wisconsin Oshkosh, working here since 2015 after completing my Ph.D. at the University of Illinois at Urbana-Champaign. My current research uses computational text analysis to study climate change communication. My work has been discussed in outlets such as <i>The Guardian, Bloomberg, Time, Mother Jones, </i> and others. I teach courses on social data science, AI & society, research methods, environment & society, and social networks.  
 
 <br/>
 
